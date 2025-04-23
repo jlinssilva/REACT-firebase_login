@@ -22,5 +22,4 @@ Após criar e acessar a pasta do projeto, execute os comandos abaixo:
     - FirebaseConfig.jsx    // onde serão colocadas as configurações de acesso ao Firebase
     - Login.jsx             // onde estão as estruturas de login
     - Logout.jsx            // onde estão as estruturas de logout
-
-Edita o arquivo App.jsx para inserir o botao Login/Logout
+    - Edita o arquivo App.jsx para inserir o botao Login/Logout
