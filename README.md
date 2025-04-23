@@ -11,9 +11,9 @@ Este é um projeto de Autenticação de Usuário usando o Google Firebase
 
 Após criar e acessar a pasta do projeto, execute os comandos abaixo:
 
-$ npx create-vite .     //cria o projeto
-$ npm i                 // instala as dependencias do projeto
-$ npm i firebase        // instala o firebase para conexão com o serviço on-line
+    $ npx create-vite .     //cria o projeto
+    $ npm i                 // instala as dependencias do projeto
+    $ npm i firebase        // instala o firebase para conexão com o serviço on-line
 
 ## Cria os Arquivos
 
