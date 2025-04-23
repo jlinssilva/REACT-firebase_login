@@ -5,13 +5,12 @@ Este é um projeto de Autenticação de Usuário usando o Google Firebase. Será
 
 A única funcionalidade aqui é a criação de um botão de Login, quando o usuário não estiver logado, e a criação de um botão de Logoff, quando estiver.
 
-Todo código encontra-se disponível na pasta src.
-
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" height="50" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50" />
-          
+Todo código encontra-se disponível na pasta src.          
 
 # React + Vite + Firebase (Google)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50"/>&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" height="50" />&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50" />
+
 
 Após criar e acessar a pasta do projeto, execute os comandos abaixo:
 
