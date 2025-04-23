@@ -4,9 +4,11 @@
 Este é um projeto de Autenticação de Usuário usando o Google Firebase
 
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="50"/>
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" height="50" />
+&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" height="50" />
           
 
 # React + Vite + Firebase (Google)
@@ -22,4 +24,5 @@ Após criar e acessar a pasta do projeto, execute os comandos abaixo:
     - FirebaseConfig.jsx    // onde serão colocadas as configurações de acesso ao Firebase
     - Login.jsx             // onde estão as estruturas de login
     - Logout.jsx            // onde estão as estruturas de logout
+
     - Edita o arquivo App.jsx para inserir o botao Login/Logout
