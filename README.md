@@ -1,11 +1,13 @@
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
-
 # Olá, me chamo Jackson Lins da Silva! :grin:
 ## (JLinsSilva)
 
 Este é um projeto de Autenticação de Usuário usando o Google Firebase
 
-<i class="devicon-react-original"></i>&nbsp;&nbsp;<i class="devicon-vitejs-plain"></i>&nbsp;&nbsp;<i class="devicon-firebase-plain"></i>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vite/vite-original.svg" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+          
 
 # React + Vite + Firebase (Google)
 
